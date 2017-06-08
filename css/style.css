@@ -64,11 +64,26 @@ army green: 41521F;
 	padding: 10% 0;
 }
 
+#foundation h3,
+#foundation h4,
+#foundation a{
+	color: #A89F68;
+}
+
 /*----------section koalas-------*/
 
 #koalas{
 	padding: 10% 0;
 	background-color: #A89F68;
+}
+
+#koalas h4,
+#koalas p{
+	color: #fff;
+}
+
+#koalas h3{
+	color: #41521F;
 }
 
 .cosita{
@@ -85,7 +100,7 @@ army green: 41521F;
 
 .grupo{
 	color: #fff;
-	padding: 10% 0 0 50%;
+	padding: 5% 0 0 50%;
 }
 
 /*----------------Help-----------*/
@@ -102,6 +117,10 @@ army green: 41521F;
 
 .fifth-section i{
 	padding: 3% 0;
+}
+
+.fifth-section a{
+	color: #A89F68; 
 }
 
 /*----------------Donate-----------*/
@@ -122,15 +141,57 @@ army green: 41521F;
 	padding: 0;
 }
 
+.fifth-section h3,
+.donate h3{
+	color: #41521F;
+	margin-bottom: 5%;
+}
+
+.linea p{
+	line-height: 3em;
+	margin-bottom: 0;
+}
+
 .linea{
 	border-bottom: 1px solid #fbffbe;
+}
+
+.api{
+	line-height: 3em;
 }
 
 .seccion-precio:hover{
 	background-color: rgba(255, 255, 255, 0.2);
 	border-radius: 5px;
+	padding: 3% 0;
+	cursor: pointer;
 }
 
 sup{
 	font-size: 10px;
+}
+
+
+/*-----------footer-------------*/
+.pie{
+	background-color: #41521F;
+	padding: 7% 0;
+}
+
+.pie h3{
+	color: #A89F68;
+	margin-top: 0;
+}
+
+.pie a{
+	color: #A89F68;
+	text-decoration: none;
+}
+
+.pie p{
+	color: #fff;
+}
+
+.enlances{
+	padding-top: 5%;
 }

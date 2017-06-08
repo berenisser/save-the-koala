@@ -13,4 +13,12 @@
  	.grupo{
  		padding-left: 3%;
  	}
+
+ 	.seccion-precio button{
+	margin-bottom: 5%;
+	}
+
+ 	.pie{
+	padding: 20% 0;
+	}
 }
