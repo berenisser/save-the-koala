@@ -87,3 +87,50 @@ army green: 41521F;
 	color: #fff;
 	padding: 10% 0 0 50%;
 }
+
+/*----------------Help-----------*/
+.fifth-section{
+	background-color: #fbffbe;
+	padding: 10% 0;
+}
+
+
+.fifth-section h3,
+.fifth-section i{
+	color: #A89F68;
+}
+
+.fifth-section i{
+	padding: 3% 0;
+}
+
+/*----------------Donate-----------*/
+
+.donate{
+	background-color: #A89F68;
+	padding: 10% 0;
+}
+
+.number{
+	font-size: 10em;
+	line-height: 1em;
+}
+
+.precio span{
+	color: #fbffbe;
+	margin: 0;
+	padding: 0;
+}
+
+.linea{
+	border-bottom: 1px solid #fbffbe;
+}
+
+.seccion-precio:hover{
+	background-color: rgba(255, 255, 255, 0.2);
+	border-radius: 5px;
+}
+
+sup{
+	font-size: 10px;
+}
