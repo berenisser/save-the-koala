@@ -63,3 +63,27 @@ army green: 41521F;
 #foundation{
 	padding: 10% 0;
 }
+
+/*----------section koalas-------*/
+
+#koalas{
+	padding: 10% 0;
+	background-color: #A89F68;
+}
+
+.cosita{
+	border: 8px solid #fff;
+}
+
+.fourth-section{
+	background-image: url(../img/all.jpg);
+	height: 90vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.grupo{
+	color: #fff;
+	padding: 10% 0 0 50%;
+}
